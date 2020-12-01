@@ -1,2 +1,3 @@
 # yoga
-learning to HTML, CSS, JS
+learning to HTML, CSS, JS 
+requires responsive design
